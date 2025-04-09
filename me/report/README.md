@@ -16,7 +16,7 @@ This project is my project repository for the MVC (DV1608) course, used for work
 
 - To install the project by cloning the repo, use:
 
-    git clone https://github.com/yourusername/project-name.git
+    git clone https://github.com/AndiDupa/mvc.git
 
 - To then run the project, use:
 
